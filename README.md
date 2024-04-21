@@ -1,5 +1,11 @@
 Resources For HTML,JAVA,CSS Website for a Music Player.
 
+Original Code for project, was from Mohan Khadka.
+
+Original Project: https://codepen.io/khadkamhn/details/pJLdBp /
+
+Main Project Will be on Codepen
+
 Replit: https://replit.com/@ItsGamingGo/HTML-CSS-JS
 
 Codepen: ETA
