@@ -12,7 +12,7 @@ Codepen: https://codepen.io/ItsGamingGo/pen/gOyQNvr?editors=1000
 
 Notes:
 
-https://codepen.io/ItsGamingGo/pen/gOyQNvr?editors=1000
+________________________________________________________
 The project is a Work In Progress
 ________________________________________________________
 21/04/2024
