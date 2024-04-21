@@ -10,15 +10,20 @@ Replit: https://replit.com/@ItsGamingGo/HTML-CSS-JS
 
 Codepen: https://codepen.io/ItsGamingGo/pen/gOyQNvr?editors=1000
 
+Updates Will be in UK Local Time, as well as Date format.
+
 Notes:
 
 ________________________________________________________
 21/04/2024
 
+Bugs Patched:
+
+Blinding Lights Now playing - Changed to MP3
+
 Current Bugs Known:
 
 Blinding Lights not Playing-as its a M4A
-
 ________________________________________________________
 The project is a Work In Progress
 ________________________________________________________
