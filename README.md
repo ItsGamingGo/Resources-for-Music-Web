@@ -11,13 +11,23 @@ Replit: https://replit.com/@ItsGamingGo/HTML-CSS-JS
 Codepen: ETA
 
 Notes:
+
+________________________________________________________
 21/04/2024
+
 Codepen Release Planned.
+
 {6 songs added
+
   Heart Attack Dave
-  Feet don't fail me now Joy Crookes
-  Lighter KSI
-  As the World Caves In
-  Blinding Lights 8D
-  Glitch In the simulation Salem Ilese
   
+  Feet don't fail me now Joy Crookes
+  
+  Lighter KSI
+  
+  As the World Caves In
+  
+  Blinding Lights 8D
+  
+  Glitch In the simulation Salem Ilese
+  ________________________________________________________
