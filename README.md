@@ -13,6 +13,13 @@ Codepen: https://codepen.io/ItsGamingGo/pen/gOyQNvr?editors=1000
 Notes:
 
 ________________________________________________________
+21/04/2024
+
+Current Bugs Known:
+
+Blinding Lights not Playing-as its a M4A
+
+________________________________________________________
 The project is a Work In Progress
 ________________________________________________________
 21/04/2024
