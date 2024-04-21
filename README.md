@@ -8,10 +8,12 @@ Main Project Will be on Codepen
 
 Replit: https://replit.com/@ItsGamingGo/HTML-CSS-JS
 
-Codepen: ETA
+Codepen: https://codepen.io/ItsGamingGo/pen/gOyQNvr?editors=1000
 
 Notes:
 
+https://codepen.io/ItsGamingGo/pen/gOyQNvr?editors=1000
+The project is a Work In Progress
 ________________________________________________________
 21/04/2024
 
